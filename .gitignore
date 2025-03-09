@@ -1,0 +1,7 @@
+"# Windows Forms App Git Ignore" 
+"bin/" 
+"obj/" 
+"Debug/" 
+"Release/" 
+"TestResults/" 
+".vscode/" 
