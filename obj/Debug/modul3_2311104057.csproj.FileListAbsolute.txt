@@ -1,0 +1,10 @@
+C:\Users\ASUS TUF\source\repos\modul3_2311104057\modul3_2311104057\bin\Debug\modul3_2311104057.exe.config
+C:\Users\ASUS TUF\source\repos\modul3_2311104057\modul3_2311104057\bin\Debug\modul3_2311104057.exe
+C:\Users\ASUS TUF\source\repos\modul3_2311104057\modul3_2311104057\bin\Debug\modul3_2311104057.pdb
+C:\Users\ASUS TUF\source\repos\modul3_2311104057\modul3_2311104057\obj\Debug\modul3_2311104057.csproj.AssemblyReference.cache
+C:\Users\ASUS TUF\source\repos\modul3_2311104057\modul3_2311104057\obj\Debug\modul3_2311104057.Form1.resources
+C:\Users\ASUS TUF\source\repos\modul3_2311104057\modul3_2311104057\obj\Debug\modul3_2311104057.Properties.Resources.resources
+C:\Users\ASUS TUF\source\repos\modul3_2311104057\modul3_2311104057\obj\Debug\modul3_2311104057.csproj.GenerateResource.cache
+C:\Users\ASUS TUF\source\repos\modul3_2311104057\modul3_2311104057\obj\Debug\modul3_2311104057.csproj.CoreCompileInputs.cache
+C:\Users\ASUS TUF\source\repos\modul3_2311104057\modul3_2311104057\obj\Debug\modul3_2311104057.exe
+C:\Users\ASUS TUF\source\repos\modul3_2311104057\modul3_2311104057\obj\Debug\modul3_2311104057.pdb

@@ -16,5 +16,12 @@ namespace modul3_2311104057
         {
             InitializeComponent();
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            string nama = textBox1.Text;
+
+            label1.Text = "Hello, " + nama + "!";
+        }
     }
 }
